@@ -28,8 +28,6 @@
 - 🤔 I’m also looking for help on more LUA work, so let me know if you can help out.
 - 💬 Ask me about anything, & im here to help out or talk to.
 
-[comment]: # (Some of my skills :))
-
 # Skills below. 🎉
 
 - 💬 I advance in JavaScript, Python, HTML, Lua, React, C#, C++, C.
@@ -89,3 +87,14 @@
 [comment]: # (This README.md was made by SentinelDev, if you use this please credit me :D)
 [comment]: # (None of these comments will show up in the final result.)
 [comment]: # (Feel free to customize it to your likings with my credits.)
+
+[comment]: # (.)
+[comment]: # (.)
+[comment]: # (.)
+[comment]: # (.)
+[comment]: # (.)
+[comment]: # (.)
+[comment]: # (.)
+[comment]: # (.)
+[comment]: # (.)
+[comment]: # (.)
