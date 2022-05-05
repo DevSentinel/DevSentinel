@@ -64,7 +64,6 @@
 [comment]: # (This shows the top languages I use and also github stats overall.)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSentinel&title_color=ffffff&text_color=daf7dc&bg_color=151515"/>
     <img src="https://github-readme-stats.vercel.app/api?username=DevSentinel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </p>
 
@@ -79,22 +78,3 @@
 <p align="center">
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
 </p>
-
-[comment]: # (How to make comments guide)
-[comment]: # (Just use this template and then in the brackets change it to your comment.)
-[comment]: # (- SentinelDev)
-
-[comment]: # (This README.md was made by SentinelDev, if you use this please credit me :D)
-[comment]: # (None of these comments will show up in the final result.)
-[comment]: # (Feel free to customize it to your likings with my credits.)
-
-[comment]: # (.)
-[comment]: # (.)
-[comment]: # (.)
-[comment]: # (.)
-[comment]: # (.)
-[comment]: # (.)
-[comment]: # (.)
-[comment]: # (.)
-[comment]: # (.)
-[comment]: # (.)
