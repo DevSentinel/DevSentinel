@@ -1,16 +1,4 @@
-# print("Hello World!") 
-
-[comment]: # (Below is a cool gif I found.)
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
 # Hello welcome to my profile. 👋
-
-- 🌱 Mastermind & Creator of Astra©
-- 👯 I’m looking forward to these next few years, & see where it goes.
-- 💬 Ask me about anything, & im here to help out or talk to.
 
 # Profile Stats 🚀
 
