@@ -1,5 +1,3 @@
-# Hello welcome to my profile. 👋
-
 # Profile Stats 🚀
 
 <p align="center">
